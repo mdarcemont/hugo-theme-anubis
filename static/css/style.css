@@ -201,9 +201,16 @@ header nav a {
     white-space: nowrap;
 }
 
+.site-main {
+    position: absolute;
+    right: 0px;
+    bottom: 1.5em;
+}
+
 .common-header {
     padding-bottom: 1.5em;
     border-bottom: thin solid var(--hr-color);
+    position: relative;
 }
 
 /* Pages */
