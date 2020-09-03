@@ -1,8 +1,8 @@
 /* Basic */
-@import url('https://fonts.googleapis.com/css?family=PT Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 html {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     /* 1 */
     -ms-text-size-adjust: 100%;
     /* 2 */
