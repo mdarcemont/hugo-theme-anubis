@@ -1,8 +1,8 @@
 /* Basic */
-@import url('https://fonts.googleapis.com/css?family=IBM Plex Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 html {
-    font-family: 'IBM Plex Serif', sans-serif;
+    font-family: 'Lora', sans-serif;
     /* 1 */
     -ms-text-size-adjust: 100%;
     /* 2 */
