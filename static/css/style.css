@@ -1,8 +1,8 @@
 /* Basic */
-@import url('https://fonts.googleapis.com/css?family=EB Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT Sans&display=swap');
 
 html {
-    font-family: 'EB Garamond', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     /* 1 */
     -ms-text-size-adjust: 100%;
     /* 2 */
