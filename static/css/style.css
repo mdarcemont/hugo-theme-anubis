@@ -154,6 +154,10 @@ p {
     text-align: justify;
 }
 
+li {
+    padding-bottom: 10px;
+}
+
 hr {
     border-top: 1px solid var(--hr-color);
     height: 1px;
