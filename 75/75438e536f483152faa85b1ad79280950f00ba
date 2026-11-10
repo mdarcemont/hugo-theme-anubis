@@ -1,0 +1,24 @@
+layouts/_default/single.html
+  s_d0b3ad90194dba::t_2281c8745e9b33 18,26,34,42,50
+layouts/_default/rss.xml
+  s_d0b3ad90194dba::t_ad57ac5274b0ce 15
+  s_d0b3ad90194dba::t_5493fdf979950e 14
+layouts/_default/baseof.html
+  s_d0b3ad90194dba::t_5493fdf979950e 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7575438e536f483152faa85b1ad79280950f00ba",
+  "prompts": {},
+  "sessions": {
+    "s_d0b3ad90194dba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4f10efa-3d91-4177-b9c8-64b0d3c82145",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Manuel Darcemont <manuel@usetandem.ai>"
+    }
+  }
+}
